@@ -1,5 +1,6 @@
 # Facial Detection
 
+* Therdo and Tensorflow
 * Deep learning for facial detection
 
 ## References
