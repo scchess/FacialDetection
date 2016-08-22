@@ -1,4 +1,4 @@
-# DeepFacial
+# Facial Detection
 
 ## References
 
