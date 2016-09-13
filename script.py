@@ -49,7 +49,7 @@ print("y.shape == {}; y.min == {:.3f}; y.max == {:.3f}".format(
     y.shape, y.min(), y.max()))
     
 #
-# The images have 96x96 pixels, ranged from 0-255. We also scale the pixel to [0,1].
+# The images have 96x96 pixels, ranged from 0-255. We also scale the pixels to [0,1].
 # The outputs are also scaled to [-1,1]. X is the list of images and y is the predictors in (x,y)
 # coordinates. Since we have 15 predictors, we have 50 when counting both x and y.
 #
