@@ -177,10 +177,3 @@ with open('net2.pickle', 'wb') as f:
 # Note that each filter reduces the dimension by n-1 and pool reduces by division.
 # For example, 96 to 94 (3-1) then to 94/2 = 47.
 #
-
-
-
-
-
-    
-    
